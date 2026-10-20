@@ -6,7 +6,7 @@ set -e
 # ============================================
 
 SSH_USER="ipx"
-SSH_PASSWORD="loveyoubabu3000"
+SSH_PASSWORD="muzamil100"
 
 
 # ============================================
